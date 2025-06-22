@@ -1,2 +1,2 @@
 # tst
-test repo
+test repo for git command demo
